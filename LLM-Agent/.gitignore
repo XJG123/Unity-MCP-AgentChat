@@ -1,0 +1,19 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+
+# MCP Server binary (large, obtain from Unity-MCP releases)
+/osx-arm64/
+
+# Node / Bun
+chat-server/node_modules/
+
+# Secrets
+chat-server/.env
+
+# macOS
+.DS_Store
