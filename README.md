@@ -2,6 +2,7 @@
 
 > 生成日期: 2026-06-18 | Unity-MCP v0.81.0 | GameDev-MCP-Server v8.0.0.0
 
+项目底座：https://github.com/IvanMurzak/Unity-MCP
 ---
 
 ## 1. 架构全景
